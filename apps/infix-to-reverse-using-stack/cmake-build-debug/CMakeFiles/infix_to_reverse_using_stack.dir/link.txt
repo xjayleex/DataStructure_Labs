@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/infix_to_reverse_using_stack.dir/main.c.o  -o infix_to_reverse_using_stack 

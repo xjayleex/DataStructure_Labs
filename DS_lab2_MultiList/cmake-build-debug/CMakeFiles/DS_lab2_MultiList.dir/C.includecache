@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ijaehyeon/Desktop/MyDocuments/gitblog/DataStructure_Labs/DS_lab2_MultiList/mList.c
+stddef.h
+-
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+mList.h
+/Users/ijaehyeon/Desktop/MyDocuments/gitblog/DataStructure_Labs/DS_lab2_MultiList/mList.h
+
+/Users/ijaehyeon/Desktop/MyDocuments/gitblog/DataStructure_Labs/DS_lab2_MultiList/mList.h
+stdbool.h
+-
+
+/Users/ijaehyeon/Desktop/MyDocuments/gitblog/DataStructure_Labs/DS_lab2_MultiList/main.c
+stdio.h
+-
+stdlib.h
+-
+mList.h
+/Users/ijaehyeon/Desktop/MyDocuments/gitblog/DataStructure_Labs/DS_lab2_MultiList/mList.h
+

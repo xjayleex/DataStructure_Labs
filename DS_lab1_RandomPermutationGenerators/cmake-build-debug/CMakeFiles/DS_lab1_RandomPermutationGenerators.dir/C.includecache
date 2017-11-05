@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ijaehyeon/Desktop/MyDocuments/gitblog/DataStructure_Labs/DS_lab1_RandomPermutationGenerators/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+stdbool.h
+-
+

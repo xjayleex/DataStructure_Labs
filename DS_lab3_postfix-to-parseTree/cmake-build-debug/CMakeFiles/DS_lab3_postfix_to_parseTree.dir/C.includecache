@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ijaehyeon/Desktop/MyDocuments/gitblog/DataStructure_Labs/DS_lab3_postfix-to-parseTree/adt.c
+adt.h
+/Users/ijaehyeon/Desktop/MyDocuments/gitblog/DataStructure_Labs/DS_lab3_postfix-to-parseTree/adt.h
+stdio.h
+-
+stdlib.h
+-
+
+/Users/ijaehyeon/Desktop/MyDocuments/gitblog/DataStructure_Labs/DS_lab3_postfix-to-parseTree/adt.h
+
+/Users/ijaehyeon/Desktop/MyDocuments/gitblog/DataStructure_Labs/DS_lab3_postfix-to-parseTree/main.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+memory.h
+-
+adt.h
+/Users/ijaehyeon/Desktop/MyDocuments/gitblog/DataStructure_Labs/DS_lab3_postfix-to-parseTree/adt.h
+

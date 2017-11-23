@@ -1,6 +1,4 @@
-//
-// Created by 이재현 on 2017. 10. 28..
-//
+/* adh.h */
 #ifndef DS_LAB3_POSTFIX_TO_PARSETREE_ADT_H
 #define DS_LAB3_POSTFIX_TO_PARSETREE_ADT_H
 /* ADTs for transforming infix to postfix */

@@ -1,6 +1,8 @@
+
+/* main.c */
+
 #include <stdio.h>
 #include <stdlib.h>
-#include <stdbool.h>
 #include <memory.h>
 #include "adt.h"
 node *head;
@@ -79,6 +81,7 @@ void postorder_traverse(node *t) {
     }
 }
 double eval_parse_tree(node *t) {
+    /*후위 순회로 계산*/
     char temp[2];
     double left = 0;
     double right = 0;
@@ -137,7 +140,7 @@ int main() {
     printf("--------------------------------------------------------------------------------------------------------------------------------------------------------\n");
     result = eval_parse_tree(head);
     printf("Result : %.2lf\n",result);
-
+`
 
     return 0;
 }

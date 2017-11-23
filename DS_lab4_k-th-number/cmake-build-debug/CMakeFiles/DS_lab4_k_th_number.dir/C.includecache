@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ijaehyeon/Desktop/MyDocuments/gitblog/DataStructure_Labs/DS_lab4_k-th-number/adt.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+limits.h
+-
+adt.h
+/Users/ijaehyeon/Desktop/MyDocuments/gitblog/DataStructure_Labs/DS_lab4_k-th-number/adt.h
+
+/Users/ijaehyeon/Desktop/MyDocuments/gitblog/DataStructure_Labs/DS_lab4_k-th-number/adt.h
+
+/Users/ijaehyeon/Desktop/MyDocuments/gitblog/DataStructure_Labs/DS_lab4_k-th-number/main.c
+stdio.h
+-
+stdlib.h
+-
+memory.h
+-
+time.h
+-
+adt.h
+/Users/ijaehyeon/Desktop/MyDocuments/gitblog/DataStructure_Labs/DS_lab4_k-th-number/adt.h
+

@@ -1,6 +1,4 @@
-//
-// Created by 이재현 on 2017. 10. 28..
-//
+/* adt.c */
 #include "adt.h"
 #include <stdio.h>
 #include <stdlib.h>

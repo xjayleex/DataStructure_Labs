@@ -1,3 +1,4 @@
 # DataStructure_Labs
-- This repo is the solution codes repo for data structure class of Prof. Dong Joon Lee at Korea Aerospace Univ.
-- check
+---
+- 항공대 이동준 교수님 자료구조 조교입니다. 
+- 올려둔 답안은 참고만 하시기 바랍니다.

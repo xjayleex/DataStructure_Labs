@@ -16,10 +16,10 @@ int main() {
     // N = 1000000
     p = randPermuteGenerator(p);
     printf("Finding %d-th largest number ... \n", k);
-    algo1(p,k);
-    algo2(p,k);
+    //algo1(p,k);
+    //algo2(p,k);
     algo3(p,k);
-    algo4(p,k);
+    //algo4(p,k);
     return 0;
 }
 

@@ -21,8 +21,6 @@ stdio.h
 -
 stdlib.h
 -
-stdbool.h
--
 memory.h
 -
 adt.h

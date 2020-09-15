@@ -4,7 +4,7 @@
 
 #ifndef DS_LAB4_K_TH_NUMBER_ADT_H
 #define DS_LAB4_K_TH_NUMBER_ADT_H
-#define N 1000000
+#define N 5000000
 int my_rand(int base, int range);
 void swap(int *this, int *that);
 int* randPermuteGenerator(int *array);
